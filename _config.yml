@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: cgr2134's homepage
 description: Bookmark this to keep an eye on my project updates!
+plugins: 
+  - jekyll-octicons
